@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  i4q-demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-11T13:21:50.374585+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 338746beb49f3286be3a0cf7b5ebd678c2f1ece401b04038c9bf64923373ebef
+    name: i4q-demo
+    type: application
+    urls:
+    - https://golanshabi.github.io/applications-sample/i4q-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-11T13:21:50.373932+03:00"
